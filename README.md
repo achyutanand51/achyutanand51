@@ -21,8 +21,8 @@
 - Portfolio Website
 - Calculator
 - To-Do App
+- hospital management
 
 ## Contact
-📧 Email: your-email@example.com
-💼 LinkedIn: your-linkedin-profile
+📧 Email: achyutanandupadhyay51@gmail.com
 🐙 GitHub: https://github.com/achyutanand51
