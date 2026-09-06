@@ -11,6 +11,7 @@
 ## Skills
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 - React.js
 - C#
