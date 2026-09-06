@@ -15,6 +15,7 @@
 - React.js
 - C#
 - .NET
+- Asp dotnet core
 - Git & GitHub
 
 ## Projects
